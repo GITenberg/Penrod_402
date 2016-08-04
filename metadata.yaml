@@ -1,0 +1,44 @@
+_repo: Penrod_402
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tarkington, Booth
+    aliases:
+    - Van Loot, Cornelius Obenchain
+    - Tarkington, B. (Booth)
+    - Tarkington, Newton Booth
+    birthdate: 1869
+    deathdate: 1946
+    gutenberg_agent_id: '169'
+    url: http://www.gutenberg.org/2009/agents/169
+    wikipedia: http://en.wikipedia.org/wiki/Booth_Tarkington
+description: "Penrod is a collection of comic sketches by Booth Tarkington that was\
+  \ first published in 1914. The book follows the misadventures of Penrod Schofield,\
+  \ an eleven-year-old boy growing up in the pre-World War I Midwestern United States,\
+  \ in a similar vein to The Adventures of Tom Sawyer. In Penrod, Tarkington established\
+  \ characters who appeared in two further books, Penrod and Sam (1916) and Penrod\
+  \ Jashber (1929). The three books were published together in one volume, Penrod:\
+  \ His Complete Story, in 1931.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Best Books Ever Listings
+- Bestsellers, American, 1895-1923
+gutenberg_issued: '2006-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '402'
+  wikidata: Q7164623
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Humorous stories'
+- !lcc 'PS'
+- !lcsh 'Middle West -- Fiction'
+- GITenberg
+title: Penrod
+url: http://www.gutenberg.org/ebooks/402
+wikipedia:
+- https://en.wikipedia.org/wiki/Penrod
